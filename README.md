@@ -40,6 +40,9 @@ QuickMail is a modern Android app built with **Jetpack Compose** and **MVVM**, a
 
 ## 🧪 Future Plans
 
+- Deep Linking 
+- Multiple file types attachment
+- AI Auto Suggest & Compose
 - Google Sign-In 
 - Dark mode support
 - Schedule email sending
