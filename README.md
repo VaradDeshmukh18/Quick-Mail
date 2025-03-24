@@ -28,10 +28,12 @@ QuickMail is a modern Android app built with **Jetpack Compose** and **MVVM**, a
 ---
 
 ## 📸 Screenshots
-![p1](https://github.com/user-attachments/assets/afd6a933-196c-4850-8ce5-c9c139aa0675)
-![p2](https://github.com/user-attachments/assets/4887b2d0-de46-4af1-8719-f2bf7d802b1a)
-![p3](https://github.com/user-attachments/assets/5fe1be8e-f50c-434e-af5d-0b1373cd0d11)
-![p4](https://github.com/user-attachments/assets/c757e39f-4350-477d-9a24-1183c0c59968)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/afd6a933-196c-4850-8ce5-c9c139aa0675" alt="Compose Screen" width="300"/>
+  <img src="https://github.com/user-attachments/assets/4887b2d0-de46-4af1-8719-f2bf7d802b1a" alt="Template List" width="300"/> 
+  <img src="https://github.com/user-attachments/assets/5fe1be8e-f50c-434e-af5d-0b1373cd0d11" alt="Sent Mail Screen" width="300"/> 
+  <img src="https://github.com/user-attachments/assets/c757e39f-4350-477d-9a24-1183c0c59968" alt="Settings or Preview" width="300"/>
+</p>
 
 
 ---
